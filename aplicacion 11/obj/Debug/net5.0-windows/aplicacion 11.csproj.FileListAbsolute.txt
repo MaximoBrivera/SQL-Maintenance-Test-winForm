@@ -1,0 +1,91 @@
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.exe
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.deps.json
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.runtimeconfig.json
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.runtimeconfig.dev.json
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.dll
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\ref\aplicacion 11.dll
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.pdb
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.AssemblyReference.cache
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion_11.Form1.resources
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.GenerateResource.cache
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.AssemblyInfoInputs.cache
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.AssemblyInfo.cs
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.CoreCompileInputs.cache
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.dll
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\ref\aplicacion 11.dll
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.pdb
+C:\Users\INFOTEP\Desktop\maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.genruntimeconfig.cache
+F:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.dll
+F:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\ref\aplicacion 11.dll
+F:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.pdb
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.exe
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.deps.json
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.runtimeconfig.json
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.runtimeconfig.dev.json
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\ref\aplicacion 11.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.pdb
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\Google.Protobuf.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\MySql.Data.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\ZstdNet.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\MySqlConnector.dll
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.AssemblyReference.cache
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion_11.Form1.resources
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.GenerateResource.cache
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.GeneratedMSBuildEditorConfig.editorconfig
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.AssemblyInfoInputs.cache
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.AssemblyInfo.cs
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.CoreCompileInputs.cache
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.CopyComplete
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.dll
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\ref\aplicacion 11.dll
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.pdb
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.genruntimeconfig.cache
+E:\mximo}\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion_11.sql.resources
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+E:\mximo}\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.exe
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.deps.json
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.runtimeconfig.json
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.runtimeconfig.dev.json
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\ref\aplicacion 11.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\aplicacion 11.pdb
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\Google.Protobuf.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\K4os.Compression.LZ4.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\K4os.Hash.xxHash.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\MySql.Data.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\Ubiety.Dns.Core.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\ZstdNet.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\MySqlConnector.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\System.Data.SqlClient.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\win-arm64\native\sni.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\win-x64\native\sni.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\win-x86\native\sni.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\bin\Debug\net5.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.AssemblyReference.cache
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion_11.Form1.resources
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion_11.sql.resources
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.GenerateResource.cache
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.AssemblyInfoInputs.cache
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.AssemblyInfo.cs
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.CoreCompileInputs.cache
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.csproj.CopyComplete
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\ref\aplicacion 11.dll
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.pdb
+C:\Users\Maximo\Desktop\Maximo\aplicacion 11\aplicacion 11\obj\Debug\net5.0-windows\aplicacion 11.genruntimeconfig.cache
